@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Npc
+comment0.text=\r\n\ This\ class\ manages\ the\ NPC\ with\ the\ dialogues.\r\n\r\n\ @author\ \ Group\ 8\r\n\ @version\ 09/11/17\r\n
+comment1.params=descriptionPNJ\ dialoguePNJ
+comment1.target=Npc(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Npc\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescriptionNpc()
+comment2.text=\r\n\ This\ method\ return\ the\ description\ of\ the\ NPC.\ The\ name\ must\ have\ at\ least\ 3\ and\ maximum\ 100.\ \r\n\ There\ is\ no\ space\ before\ of\ after\ the\ description.\ \r\n\r\n\ \r\n\ @return\ \ \ \ The\ description\ of\ the\ NPC\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDialogNpc()
+comment3.text=\r\n\ This\ method\ return\ the\ dialog\ of\ the\ NPC.\ The\ name\ must\ have\ at\ least\ 3\ and\ maximum\ 100.\ \r\n\ There\ is\ no\ space\ before\ of\ after\ the\ dialog.\ \r\n\ \r\n\ @return\ \ \ \ The\ dialog\ of\ the\ NPC\r\n
+comment4.params=
+comment4.target=void\ getDetails()
+comment4.text=\r\n\ This\ method\ return\ the\ dialog\ of\ the\ NPC.\ The\ name\ must\ have\ at\ least\ 3\ and\ maximum\ 100.\ \r\n\ There\ is\ no\ space\ before\ of\ after\ the\ dialog.\ \r\n\ \r\n\ @return\ \ \ \ The\ dialog\ of\ the\ NPC\r\n
+numComments=5

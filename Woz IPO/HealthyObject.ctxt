@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HealthyObject
+comment0.text=\n\ Item\ is\ an\ object\ that\ it\ could\ be\ used\ and\ store\ by\ the\ player.\ \n\ These\ objects\ are\ healer\ to\ help\ the\ player.\n\ \n\ @author\ Group\ 8\n\ @version\ 09/11/17\n
+comment1.params=name\ des\ u\ p
+comment1.target=HealthyObject(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ the\ class\ HealthyObject\n
+comment2.params=
+comment2.target=int\ getPointsHealthy()
+comment2.text=\n\ Displays\ the\ value\ of\ object\ power\n\ \n\ @return\ pointsHealthy,\ \ \ the\ value\ of\ object\ power\n
+comment3.params=myPlayer
+comment3.target=void\ action(Player)
+comment3.text=\n\ Add\ life\ point\ to\ the\ player\n\ \n\ @\ param\ myPlayer\ the\ player\ who\ plays\n
+numComments=4

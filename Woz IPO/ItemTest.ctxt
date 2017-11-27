@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ItemTest
+comment0.text=\n\ The\ test\ class\ ItemTest.\n\ Unit\ tests\ of\ the\ Item\ class\n\n\ @author\ \ Group\ 8\n\ @version\ 09/11/2017\n\n
+comment1.params=
+comment1.target=ItemTest()
+comment1.text=\n\ Constructor\ of\ the\ Item\ class\ test.\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Initialize\ one\ object\ for\ the\ test\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\ <p>\ Called\ after\ every\ test\ case\ method.\ Nothing\ to\ do\ in\ this\ case\ </p>\n
+comment4.params=
+comment4.target=void\ testGetNameObject()
+comment4.text=\n\ Method\ testGetNameObject\:\ getNameObject()\ return\ the\ name\ of\ the\ item.\n\n
+comment5.params=
+comment5.target=void\ testGetItemDescription()
+comment5.text=\n\ Method\ testGetItemDescription\:\ getItemDescription()\ return\ the\ description\ of\ the\ item.\n\n
+comment6.params=
+comment6.target=void\ testGetNbUtilisation()
+comment6.text=\n\ Method\ testGetNbUtilisation()\:\ getNbUtilisation\ return\ the\ number\ of\ the\ utilisation\ of\ the\ item.\n\n
+comment7.params=
+comment7.target=void\ testSoustraction()
+comment7.text=\n\ Method\ testSoustraction()\:\ check\ the\ subtracted\ used\ return\ \n\ the\ NbUtilisation\n\n
+numComments=8
